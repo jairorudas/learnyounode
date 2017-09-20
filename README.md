@@ -1,4 +1,4 @@
 # learnyounode
-Practice I/O in NodeJs.
+Practicando I/O em NodeJs.
 
 Este repositorio tem só fins didaticos para dar aulas.
